@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cadavre Exquis</string>
+    <string name="app_date_format">dd/MM/yyyy</string>
+
+    <!-- Navigation menu -->
+    <string name="navigation_drawer_open">Navigation menu is opened</string>
+    <string name="navigation_drawer_close">Navigation menu is closed</string>
+    <string name="nav_browse_label">Browse</string>
+    <string name="nav_my_stories_label">My stories</string>
+    <string name="nav_favorites_label">Favorites</string>
+
+    <!-- Story row -->
+    <string name="story_hero_label">The story of "%s"</string>
+</resources>

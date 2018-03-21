@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Navigation menu -->
+    <string name="navigation_drawer_open">Le menu de navigation est ouvert</string>
+    <string name="navigation_drawer_close">Le menu de navigation est fermé</string>
+    <string name="nav_browse_label">Naviguer</string>
+    <string name="nav_my_stories_label">Mes histoires</string>
+    <string name="nav_favorites_label">Favoris</string>
+
+    <!-- Story row -->
+    <string name="story_hero_label">L\'histoire de "%s"</string>
+</resources>

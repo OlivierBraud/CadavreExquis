@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "277233042381",
+    "firebase_url": "https://cadavre-exquis-ceb80.firebaseio.com",
+    "project_id": "cadavre-exquis-ceb80",
+    "storage_bucket": "cadavre-exquis-ceb80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277233042381:android:77bcda96b6a55f8e",
+        "android_client_info": {
+          "package_name": "thebrao.fr.cadavreexquis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277233042381-502t3kf1b4r2rpd4b1bkskunco5hvvpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu6CALbYKv4er-lHZtoHgcAHI9dycFu_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
